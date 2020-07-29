@@ -1,0 +1,19 @@
+{
+  "name": "botface",
+  "version": "1.0.0",
+  "description": "bot para o facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hades-IA/botface.git"
+  },
+  "author": "Arilson Jose Klaus Ribeiro / Hades-IA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hades-IA/botface/issues"
+  },
+  "homepage": "https://github.com/Hades-IA/botface#readme"
+}
